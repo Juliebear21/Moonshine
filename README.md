@@ -1,2 +1,2 @@
 # Moonshine
-My first repository on GitHub
+ TestGithub is a repository for showing the bare minimus and meneuvers and functions, etc.
